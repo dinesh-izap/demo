@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="core-app" default="main">
+<project name="demo" default="main">
   <target name="main" depends="lint" />
   <target name="lint">
     <apply executable="php" failonerror="true">
